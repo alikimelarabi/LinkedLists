@@ -7,7 +7,7 @@ using namespace std;
 
 typedef string ItemType;
 
-struct Nodey
+struct Node
 {
 	ItemType value;
 	Node* next;
